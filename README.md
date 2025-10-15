@@ -28,6 +28,7 @@ After cleaning the raw data in Python, key business questions were addressed wit
 ---
 
 ## 📊 Key Analysis and Findings
+<img width="1440" height="844" alt="image" src="https://github.com/user-attachments/assets/8d3e6e7d-5010-456a-a1aa-9bcfe0945be6" />
 
 ### 🏬 Sales & Store Performance
 
@@ -61,6 +62,8 @@ Sales steadily grew from **January ($1.73M)** to a peak in **August ($2.02M)** b
 - **Insight:** Loyalty tier didn’t greatly influence spending. The program’s benefit may lie in retention rather than immediate purchase value.
 
 #### **Customer Demographics**
+<img width="1441" height="828" alt="image" src="https://github.com/user-attachments/assets/3db8e37e-950a-4aeb-a0ca-4e5d41825cf8" />
+
 - **Age:** 18–70 (avg. ~44 years)  
 - **Gender:** Female & non-binary customers spent slightly more (~$3.4K) than male customers (~$3.2K).  
 - **Insight:** Walmart appeals broadly across ages and genders; inclusivity is key to its success.
@@ -83,6 +86,7 @@ Sales steadily grew from **January ($1.73M)** to a peak in **August ($2.02M)** b
 ---
 
 ### 📦 Product & Inventory Insights
+<img width="1441" height="826" alt="image" src="https://github.com/user-attachments/assets/8b161bba-abc0-48da-8a0e-c7de5191bfc0" />
 
 #### **Revenue by Category**
 - **Electronics:** ~$7.94M (52%)  

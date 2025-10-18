@@ -1,5 +1,5 @@
 
-# 🛒 Walmart Sales Data Analysis Project
+# 🛒 Walmart Retail Performance Analytics
 
 ## 📘 Project Overview
 
